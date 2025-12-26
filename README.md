@@ -29,7 +29,7 @@ pip install pandas matplotlib seaborn numpy pycountry-convert
 
 # Authors
 * Scott Baroni  
-  - GitHub: [ArcaneWorm](https://github.com/ArcaneWorm)
+  - GitHub: [ScottBaroni](https://github.com/ScottBaroni)
   - Email: [sbaroni2004@gmail.com]
 * Landon Escorcio
   - GitHub: [broncodev](https://github.com/broncodev)
